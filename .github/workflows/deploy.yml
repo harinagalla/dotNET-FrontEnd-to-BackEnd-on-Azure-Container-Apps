@@ -8,7 +8,7 @@ on:
 env:
   
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: ignite
+  RESOURCE_GROUP_NAME: ignite2022
 
   # specify your preferred region
   REGION: westus
